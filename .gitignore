@@ -1,0 +1,5 @@
+*.vcxproj*
+Debug/
+BullCowGame/Debug/
+.vs
+*.sln
